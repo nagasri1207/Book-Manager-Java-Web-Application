@@ -63,6 +63,6 @@ Special thanks to **Roshiga** (Project Coordinator) and **Rajesh Sir** (Java Tra
 
 ---
 
-> Created with 💙 during my Java training at **Besant Technologies** by **BONDILI NAGASRI**
+> Created with 💙 by **BONDILI NAGASRI**
 
 
