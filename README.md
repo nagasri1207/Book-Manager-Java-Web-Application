@@ -26,13 +26,13 @@ It manages a list of books with **Add, Edit, Delete, and View** features, follow
 
 ## 📷 Output Screenshots  
 **Book List Page**  
-![Book List](screenshots/book-list.png)  
+![Book List](screenshots/book-list.jpg)  
 
 **Add Book Page**  
-![Add Book](screenshots/add-book.png)  
+![Add Book](screenshots/add-book.jpg)  
 
 **Edit Book Page**  
-![Edit Book](screenshots/edit-book.png)  
+![Edit Book](screenshots/edit-book.jpg)  
 
 ---
 
